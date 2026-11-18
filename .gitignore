@@ -1,0 +1,13 @@
+node_modules/
+dist/
+target/
+*.tsbuildinfo
+.idea/
+.vscode/
+.DS_Store
+# Bí mật cục bộ — không commit. Các file .env.development/.staging/.production của frontend chỉ chứa biến công khai.
+.env
+.env.local
+.env.*.local
+backend/src/main/resources/static/
+BTEC Best Coder - MyStudy/
